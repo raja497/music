@@ -55,7 +55,7 @@ Dikekolah oleh {OWNER}
                 [
                     InlineKeyboardButton("🌟 ɢɪᴛ ʜᴜʙ 🌟", url=f"{SOURCE_CODE}"),
                     InlineKeyboardButton(
-                        "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                        "💵 OWNER", url="https://t.me/abhinasroy"
                     ),
                 ],
             ]
@@ -83,7 +83,7 @@ async def gstart(_, message: Message):
                 [
                     InlineKeyboardButton("🌟 ɢɪᴛ ʜᴜʙ 🌟", url=f"{SOURCE_CODE}"),
                     InlineKeyboardButton(
-                        "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                        "💵 OWNER", url="https://t.me/abhinasroy"
                     ),
                 ],
             ]
@@ -151,7 +151,7 @@ def map(pos):
             [
                 InlineKeyboardButton("🌟 ɢɪᴛ ʜᴜʙ 🌟", url=f"{SOURCE_CODE}"),
                 InlineKeyboardButton(
-                    "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                    "💵 OWNER", url="https://t.me/abhinasroy"
                 ),
             ],
         ]
@@ -189,7 +189,7 @@ async def admincache(client, message: Message):
                 [
                     InlineKeyboardButton("🌟 ɢɪᴛ ʜᴜʙ 🌟", url=f"{SOURCE_CODE}"),
                     InlineKeyboardButton(
-                        "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                        "💵 OWNER", url="https://t.me/abhinasroy"
                     ),
                 ],
             ]
@@ -251,7 +251,7 @@ Semua Perintah Bisa Digunakan Kecuali Perintah /player /skip /pause /resume  /en
                 [
                     InlineKeyboardButton("🌟 ɢɪᴛ ʜᴜʙ 🌟", url=f"{SOURCE_CODE}"),
                     InlineKeyboardButton(
-                        "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                        "💵 OWNER", url="https://t.me/abhinasroy"
                     ),
                 ],
             ]
