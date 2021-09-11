@@ -149,7 +149,7 @@ async def playlist(client, message):
                         "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
                     ),
                     InlineKeyboardButton(
-                        "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                        "💵 OWNER", url="https://t.me/abhinasroy"
                     ),
                 ],
                 [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
@@ -249,7 +249,7 @@ async def p_cb(b, cb):
                             "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
                         ),
                         InlineKeyboardButton(
-                            "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                            "💵 OWNER", url="https://t.me/abhinasroy"
                         ),
                     ],
                     [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
@@ -480,7 +480,7 @@ async def play(_, message: Message):
                         "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
                     ),
                     InlineKeyboardButton(
-                        "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                        "💵 OWNER", url="https://t.me/abhinasroy"
                     ),
                 ],
                 [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
@@ -537,7 +537,7 @@ async def play(_, message: Message):
                         "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
                     ),
                     InlineKeyboardButton(
-                        "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                        "💵 OWNER", url="https://t.me/abhinasroy"
                     ),
                 ],
                 [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
@@ -654,7 +654,7 @@ async def stream(_, message: Message):
             [
                 InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"),
                 InlineKeyboardButton(
-                    "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                    "💵 OWNER", url="https://t.me/abhinasroy"
                 ),
             ],
             [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
