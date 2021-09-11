@@ -578,9 +578,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
                     ),
-                    InlineKeyboardButton(
-                        "💵 OWNER", url="https://t.me/abhinasroy"
-                    ),
+                    InlineKeyboardButton("💵 OWNER", url="https://t.me/abhinasroy"),
                 ],
                 [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
             ]
