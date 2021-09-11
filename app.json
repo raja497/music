@@ -53,7 +53,7 @@
     "BG_IMAGE": {
       "description": "Custom Background Play Musik Gunakan Foto yang Transparant format .png / .jpg",
       "required": false,
-      "value": "https://telegra.ph/file/aafce7ef46a06e70f08b8.png"
+      "value": "https://telegra.ph/file/20147c4f049e2c1f2f248.png"
     },        
     "API_ID": {
       "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps atau @Kenkanrobot",
